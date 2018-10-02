@@ -1,3 +1,5 @@
-const API_KEY = 'c71339e64c5916c350bbccce2a194af5';
+// Add your API Key from Open Weather Maps below. 
+
+const API_KEY = 'ADD_YOUR_API_KEY_HERE';
 
 export { API_KEY };
